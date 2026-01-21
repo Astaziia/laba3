@@ -113,7 +113,7 @@
             // 
             // panelPaint
             // 
-            panelPaint.BackColor = Color.White;
+            panelPaint.BackColor = Color.Yellow;
             panelPaint.BorderStyle = BorderStyle.FixedSingle;
             panelPaint.Location = new Point(12, 80);
             panelPaint.Margin = new Padding(3, 4, 3, 4);
