@@ -15,10 +15,11 @@ namespace laba_2
             height = r.Next(30, 80);
         }
 
+
         public override void Draw(Graphics g)
         {
             g.FillEllipse(brush, x, y, width, height);
-            g.DrawEllipse(Pens.Black, x, y, width, height);
+            g.DrawEllipse(Pens.Blue, x, y, width, height);
 
             if (Selected)
             {

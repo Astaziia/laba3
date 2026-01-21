@@ -11,13 +11,13 @@ namespace laba_2
         protected int x, y;
         protected Color color;
         protected Brush brush;
-        protected Pen selectedPen = new Pen(Color.Red, 2);
+        protected Pen selectedPen = new Pen(Color.Black, 2);
 
         public bool Selected { get; set; }
 
         protected GraphObject()
         {
-            Color[] cols = { Color.Pink, Color.DeepPink, Color.Violet};
+            Color[] cols = { Color.Pink, Color.DeepPink, Color.Violet, color.HotPink};
             color = cols[r.Next(cols.Length)];
             brush = new SolidBrush(color);
 

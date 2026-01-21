@@ -57,7 +57,7 @@ namespace laba_2
             if (isDragging && draggedObject != null)
             {
                 using (Brush transparentBrush = new SolidBrush(Color.FromArgb(128,
-                    draggedObject.GetType() == typeof(Rectangle) ? Color.Blue : Color.Green)))
+                    draggedObject.GetType() == typeof(Rectangle) ? Color.Purple : Color.DarkViolet)))
                 {
                     if (draggedObject is Rectangle rect)
                     {
