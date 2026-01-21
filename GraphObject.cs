@@ -18,7 +18,11 @@ namespace laba_2
         protected GraphObject()
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
             Color[] cols = { Color.Pink, Color.Maroon, Color.Lime};
+=======
+            Color[] cols = { Color.Pink, Color.DeepPink, Color.Violet, color.HotPink};
+>>>>>>> e7777d65fed5849245664aed9dc52bb090600a88
 =======
             Color[] cols = { Color.Pink, Color.DeepPink, Color.Violet, color.HotPink};
 >>>>>>> e7777d65fed5849245664aed9dc52bb090600a88
