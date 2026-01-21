@@ -6,7 +6,7 @@ namespace laba_2
 {
     public class Ellipse : GraphObject
     {
-        private int width = 60;
+        private int width = 80;
         private int height = 60;
 
         public Ellipse() : base()
