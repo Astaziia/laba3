@@ -6,18 +6,8 @@ namespace laba_2
 {
     public class Rectangle : GraphObject
     {
-<<<<<<< HEAD
-<<<<<<< HEAD
-        private int width = 30;
-        private int height = 50;
-=======
         private int width = 80;
         private int height = 80;
->>>>>>> e7777d65fed5849245664aed9dc52bb090600a88
-=======
-        private int width = 80;
-        private int height = 80;
->>>>>>> e7777d65fed5849245664aed9dc52bb090600a88
 
         public Rectangle() : base()
         {
