@@ -11,7 +11,7 @@ namespace laba_2
         protected int x, y;
         protected Color color;
         protected Brush brush;
-        protected Pen selectedPen = new Pen(Color.Red, 2);
+        protected Pen selectedPen = new Pen(Color.Black, 2);
 
         public bool Selected { get; set; }
 
