@@ -1,6 +1,0 @@
-C:\Users\anast\Source\Repos\laba3\obj\Debug\net8.0-windows\laba_2.Form1.resources
-C:\Users\anast\Source\Repos\laba3\obj\Debug\net8.0-windows\laba_2.csproj.GenerateResource.cache
-C:\Users\anast\Source\Repos\laba3\obj\Debug\net8.0-windows\laba_2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\anast\Source\Repos\laba3\obj\Debug\net8.0-windows\laba_2.AssemblyInfoInputs.cache
-C:\Users\anast\Source\Repos\laba3\obj\Debug\net8.0-windows\laba_2.AssemblyInfo.cs
-C:\Users\anast\Source\Repos\laba3\obj\Debug\net8.0-windows\laba_2.csproj.CoreCompileInputs.cache
