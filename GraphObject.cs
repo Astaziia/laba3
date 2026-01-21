@@ -17,7 +17,7 @@ namespace laba_2
 
         protected GraphObject()
         {
-            Color[] cols = { Color.Pink, Color.DeepPink, Color.Violet};
+            Color[] cols = { Color.Pink, Color.DeepPink, Color.Violet, color.HotPink};
             color = cols[r.Next(cols.Length)];
             brush = new SolidBrush(color);
 
